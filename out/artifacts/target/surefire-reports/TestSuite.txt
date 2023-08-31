@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1002, Failures: 1, Errors: 0, Skipped: 1001, Time elapsed: 1.367 s <<< FAILURE! - in TestSuite
+setup(com.github.binarywang.demo.wx.mp.controller.WxJsapiControllerTest)  Time elapsed: 0.599 s  <<< FAILURE!
+java.lang.NoClassDefFoundError: io/restassured/mapper/factory/GsonObjectMapperFactory
+Caused by: java.lang.ClassNotFoundException: io.restassured.mapper.factory.GsonObjectMapperFactory
+
