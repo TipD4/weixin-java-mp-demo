@@ -10,11 +10,7 @@ wx:
       host: 127.0.0.1
       port: 6379
     configs:
-      - appId: 1111 # 第一个公众号的appid
-        secret: 1111 # 公众号的appsecret
-        token: 111 # 接口配置里的Token值
-        aesKey: 111 # 接口配置里的EncodingAESKey值
-      - appId: 2222 # 第二个公众号的appid，以下同上
-        secret: 1111
-        token: 111
-        aesKey: 111
+      - appId: wx7afbeb6743a70921 # 第一个公众号的appid
+        secret: 6896e1c4c19c953629201a2347c9ee16 # 公众号的appsecret
+        token: qhm # 接口配置里的Token值
+        aesKey: 4N2SmuLF5TNn569beH1ivt2FPe65kunUFiDgetsjdlM # 接口配置里的EncodingAESKey值
